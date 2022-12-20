@@ -15,5 +15,6 @@
 
     <modules>
     	<module>CRUD_WebFluxR2DBC</module>
+    	<module>SpringBootWebFlux</module>
     </modules>
 </project>
