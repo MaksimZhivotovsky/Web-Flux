@@ -1,0 +1,5 @@
+max\exempl\controller\BookController.class
+max\exempl\CRUD_WebFluxR2DBCApplication.class
+max\exempl\model\Book.class
+max\exempl\service\BookService.class
+max\exempl\repository\BookRepository.class
